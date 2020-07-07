@@ -58,6 +58,7 @@ public class NewTest7 {
 			driver.findElement(By.id("Email")).clear();
 			driver.findElement(By.id("Password")).clear();
 			Assert.assertTrue(false);
+			System.out.println("MARIA");
 		}
 	}
 	
